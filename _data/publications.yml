@@ -17,7 +17,7 @@
   pdf: "https://doi.org/10.1613/jair.9999"
   doi: "10.1613/jair.9999"
   code: "https://github.com/yourname/neural-symbolic"
-  selected: true
+  selected: false
 
 # --- Conference paper ---
 - title: "A Minimal Example of a Conference Paper"
@@ -28,7 +28,7 @@
   doi: "10.1234/xxxxxx"
   code: "https://github.com/yourname/project"
   slides: "https://example.com/slides.pdf"
-  selected: true
+  selected: false
 
 # --- Workshop / demo ---
 - title: "A Workshop Paper on Whatever You Want"
