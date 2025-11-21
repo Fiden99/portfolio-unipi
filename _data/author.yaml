@@ -15,10 +15,12 @@ room: Room YYY
 affiliation: "Department of Computer Science, University of Pisa"
 affiliation_url: "https://di.unipi.it/"
 
+name: Filippo Magi
+role: PhD student
 bio: >
-Computer scientist, studying operational research and optimization.
-Working on parallelizing branch-and-bound algorithms for combinatorial optimization problems in SMS++.
-Working with Prof. Antonio Frangioni.
+  Computer scientist, studying operational research and optimization.
+  Working on parallelizing branch-and-bound algorithms for combinatorial
+  optimization problems in SMS++. Working with Prof. Antonio Frangioni.
 
 photo: "/assets/img/me.png" # e.g., /assets/img/me.jpg — leave empty to hide the propic automatically
 # Optional links (leave any blank to hide)
